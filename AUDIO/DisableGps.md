@@ -12,3 +12,4 @@ void DISABLE_GPS(boolean disable);
 ### Results
 
 ## Description
+Game.DisableGps(true)
